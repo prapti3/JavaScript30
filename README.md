@@ -4,5 +4,5 @@ This repository contains my solutions and notes for the JavaScript30 course by W
 
 <hr>
 
-#About JavaScript30
+# About JavaScript30
 JavaScript30 is a free course created by Wes Bos. It's designed to improve JavaScript skills by building 30 projects in 30 days. Each project is built with pure JavaScript without the use of any frameworks or libraries.
