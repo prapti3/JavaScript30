@@ -1,4 +1,4 @@
-#JavaScript30 Challenges
+# JavaScript30 Challenges
 <br>
 This repository contains my solutions and notes for the JavaScript30 course by Wes Bos. The course is focused on building 30 JavaScript projects in 30 days, covering a range of topics and skills in vanilla JavaScript.
 
